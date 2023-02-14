@@ -1,0 +1,19 @@
+.sm-post {
+    margin: 20px;
+  }
+  
+  .sm {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  body {
+    background-color: #eee;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .title {
+    margin: 50px;
+  }
